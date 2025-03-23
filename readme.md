@@ -87,6 +87,16 @@ The Solution.sql file contains queries used to:
 
 6. Harivansh is the highest spending customer.
 
+## How to Use
+
+1. Open Ecommerce Sales Dashboard.pbix in Power BI.
+
+2. Load the datasets (Details.csv and Orders.csv).
+
+3. Interact with the visualizations to analyze sales trends.
+
+4. Use SQL queries for additional insights.
+
 ## Conclusion
 
 This Ecommerce Sales Dashboard project provides essential business insights and is a powerful tool for decision-makers to understand performance and optimize business strategies.
