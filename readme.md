@@ -62,6 +62,17 @@ Design charts and KPIs to represent key business insights.
 
 Use slicers for State and Quarter filters.
 
+
+## SQL Queries
+
+The Solution.sql file contains queries used to:
+
+1. Aggregate sales and profit data
+
+2. Filter orders based on category and location
+
+3. Calculate total revenue and most profitable products
+
 ## Insights
 
 1. Maharashtra contributes the highest profit by state.
