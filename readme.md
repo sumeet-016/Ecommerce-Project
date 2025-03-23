@@ -76,32 +76,6 @@ Use slicers for State and Quarter filters.
 
 6. Harivansh is the highest spending customer.
 
-## Tools Used
-
-1. Power BI: For data visualization.
-
-2. Python: Data preprocessing and analysis.
-
-3. VS Code: Development environment.
-
-## File Structure
-
-.
-├── Details.csv
-├── Orders.csv
-├── dashboard.pbix (Power BI dashboard file)
-├── README.md (Project documentation)
-└── scripts/
-    └── data_preprocessing.py (Data cleaning logic)
-
-## Future Improvements
-
-1. Incorporate machine learning models for sales forecasting.
-
-2. Enable automated data refresh from live sources.
-
-3. Implement drill-through for more detailed customer analytics.
-
 ## Conclusion
 
 This Ecommerce Sales Dashboard project provides essential business insights and is a powerful tool for decision-makers to understand performance and optimize business strategies.
