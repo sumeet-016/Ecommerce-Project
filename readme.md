@@ -73,6 +73,16 @@ The Solution.sql file contains queries used to:
 
 3. Calculate total revenue and most profitable products
 
+## How to Use
+
+1. Open Ecommerce Sales Dashboard.pbix in Power BI.
+
+2. Load the datasets (Details.csv and Orders.csv).
+
+3. Interact with the visualizations to analyze sales trends.
+
+4. Use SQL queries for additional insights.
+
 ## Insights
 
 1. Maharashtra contributes the highest profit by state.
@@ -86,16 +96,6 @@ The Solution.sql file contains queries used to:
 5. December has the highest monthly profit, while May records a loss.
 
 6. Harivansh is the highest spending customer.
-
-## How to Use
-
-1. Open Ecommerce Sales Dashboard.pbix in Power BI.
-
-2. Load the datasets (Details.csv and Orders.csv).
-
-3. Interact with the visualizations to analyze sales trends.
-
-4. Use SQL queries for additional insights.
 
 ## Conclusion
 
