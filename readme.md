@@ -8,31 +8,31 @@ The dataset comprises two CSV files: Details.csv and Orders.csv, which contain s
 
 1. Key Performance Indicators (KPIs)
 
-Total Revenue: 438K
+  Total Revenue: 438K.
 
-Total Quantity Sold: 5615
+  Total Quantity Sold: 5615.
 
-Total Profit: 37K
+  Total Profit: 37K.
 
-Average Order Value (AOV): 121K
+  Average Order Value (AOV): 121K.
 
 2. Profit and Sales Analytics
 
-Top 5 Profitable Sub-Categories by State
+  Top 5 Profitable Sub-Categories by State.
 
-Top 5 Profitable Products by Sub-Category
+  Top 5 Profitable Products by Sub-Category.
 
 3. Category Insights
 
-Payment Preferences Breakdown: COD, UPI, Debit, Credit, EMI
+  Payment Preferences Breakdown: COD, UPI, Debit, Credit, EMI.
 
-Quantity Breakdown by Category: Clothing, Electronics, Furniture
+  Quantity Breakdown by Category: Clothing, Electronics, Furniture.
 
 4. Customer and Monthly Analysis
 
-Top Spending Customers
+  Top Spending Customers.
 
-Month-wise Profit Trends
+  Month-wise Profit Trends.
 
 ## 🗂️ Dataset Details
 
