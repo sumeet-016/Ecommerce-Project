@@ -62,12 +62,6 @@ Design charts and KPIs to represent key business insights.
 
 Use slicers for State and Quarter filters.
 
-## Technologies Used
-
-1. Power BI for data visualization.
-
-2. SQL for querying and transforming data.
-
 ## SQL Queries
 
 The Solution.sql file contains queries used to:
