@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The Ecommerce Sales Dashboard is a comprehensive Power BI project designed to visualize key sales and customer insights for an ecommerce business. It leverages datasets including order details and transaction records to present actionable insights such as total sales, profits, sales by state, and customer preferences.
+This project is an Ecommerce Sales Dashboard built using Power BI, providing insights into sales, profit, order trends, and customer data. The dataset consists of order details, including sales amount, profit, quantity, product categories, payment methods, and customer locations.
 
 ## Features of the Dashboard
 
