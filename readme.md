@@ -35,16 +35,6 @@ Additionally, the *Ecommerce Sales Dashboard.pbix* file contains the Power BI da
 - *Power BI* for data visualization
 - *SQL* for querying and transforming data
 
-## 📂 Project Structure
-
-📦 Ecommerce-Sales-Dashboard
-├── 📄 Details.csv
-├── 📄 Orders.csv
-├── 📄 Solution.sql
-├── 📊 Ecommerce Sales Dashboard.pbix
-├── 📄 README.md
-
-
 ## 📌 SQL Queries
 The Solution.sql file contains queries used to:
 - Aggregate sales and profit data
@@ -61,9 +51,9 @@ The Solution.sql file contains queries used to:
 1. *Maharashtra contributes the highest profit by state.*
 2. *Printers and Bookcases are the most profitable sub-categories.*
 3. *COD is the most preferred payment method.*
-4. *Clothing holds the highest share among categories (63%).
-5. *December has the highest monthly profit, while May records a loss.
-6. *Harivansh is the highest-spending customer.
+4. *Clothing holds the highest share among categories (63%).*
+5. *December has the highest monthly profit, while May records a loss.*
+6. *Harivansh is the highest-spending customer.*
 
 ## 🚀 Future Enhancements
 1. *Implement predictive sales forecasting using ML models.*
