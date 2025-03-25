@@ -13,12 +13,12 @@ The dataset comprises two CSV files: Details.csv and Orders.csv, which contain s
 - *Average Order Value (AOV):* 121K
 
 ### 2. Profit and Sales Analytics
-- *Top 5 Profitable Sub-Categories by State*
-- *Top 5 Profitable Products by Sub-Category*
+- *Top 5 Profitable Sub-Categories by State.*
+- *Top 5 Profitable Products by Sub-Category.*
 
 ### 3. Category Insights
-- *Payment Preferences Breakdown*: COD, UPI, Debit, Credit, EMI
-- *Quantity Breakdown by Category*: Clothing, Electronics, Furniture
+- *Payment Preferences Breakdown*: COD, UPI, Debit, Credit, EMI.
+- *Quantity Breakdown by Category*: Clothing, Electronics, Furniture.
 
 ### 4. Customer and Monthly Analysis
 - *Top Spending Customers*
@@ -32,14 +32,14 @@ The project uses two datasets:
 Additionally, the *Ecommerce Sales Dashboard.pbix* file contains the Power BI dashboard.
 
 ## 🛠 Technologies Used
-- *Power BI* for data visualization
-- *SQL* for querying and transforming data
+- *Power BI* for data visualization.
+- *SQL* for querying and transforming data.
 
 ## 📌 SQL Queries
 The Solution.sql file contains queries used to:
-- Aggregate sales and profit data
-- Filter orders based on category and location
-- Calculate total revenue and most profitable products
+- Aggregate sales and profit data.
+- Filter orders based on category and location.
+- Calculate total revenue and most profitable products.
 
 ## 🖥 How to Use
 1. Open Ecommerce Sales Dashboard.pbix in Power BI.
