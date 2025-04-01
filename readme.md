@@ -1,16 +1,16 @@
 ## Ecommerce Sales Dashboard
 
 ## 📊 Project Overview
-This project is an *Ecommerce Sales Dashboard* developed using *Power BI* and *SQL*, aimed at analyzing sales performance, profit trends, and customer behavior for an ecommerce business. The dashboard leverages datasets that include order details, payment methods, and customer locations to deliver actionable insights.
+This project is an **Ecommerce Sales Dashboard** developed using *Power BI* and *SQL*, aimed at analyzing sales performance, profit trends, and customer behavior for an ecommerce business. The dashboard leverages datasets that include order details, payment methods, and customer locations to deliver actionable insights.
 
-The dataset comprises two CSV files: Details.csv and Orders.csv, which contain sales transactions, product categories, and customer demographics. SQL queries (Solution.sql) are used to preprocess and transform data for visualization. The final dashboard (Ecommerce Sales Dashboard.pbix) presents interactive charts and KPIs to help businesses make data-driven decisions.
+The dataset comprises two CSV files: Details.csv and Orders.csv, which contain sales transactions, product categories, and customer demographics. SQL queries (**Solution.sql**) are used to preprocess and transform data for visualization. The final dashboard (**Ecommerce Sales Dashboard.pbix**) presents interactive charts and KPIs to help businesses make data-driven decisions.
 
 ## 🚀 Features
 ### 1. Key Performance Indicators (KPIs)
 - *Total Revenue:* 438K
 - *Total Quantity Sold:* 5615
 - *Total Profit:* 37K
-- *Average Order Value (AOV):* 121K
+- *AOV (Average Order Value):* 121K
 
 ### 2. Profit and Sales Analytics
 - *Top 5 Profitable Sub-Categories by State.*
