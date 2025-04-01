@@ -62,7 +62,3 @@ The Solution.sql file contains queries used to:
 
 ## 🏁 Conclusion
 This *Ecommerce Sales Dashboard* provides critical insights into business performance, customer purchasing behavior, and sales trends. By leveraging *Power BI* and *SQL, the project transforms raw transactional data into meaningful visualizations, helping businesses optimize decision-making. Future improvements like **predictive analytics* and *automated data refresh* can further enhance the dashboard’s effectiveness. 
-
-## 🤝 Contributing
-Feel free to fork this repository and enhance the dashboard with new features or optimizations.
-
