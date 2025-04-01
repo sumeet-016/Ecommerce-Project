@@ -21,15 +21,15 @@ The dataset comprises two CSV files: Details.csv and Orders.csv, which contain s
 - *Quantity Breakdown by Category*: Clothing, Electronics, Furniture.
 
 ### 4. Customer and Monthly Analysis
-- *Top Spending Customers*
-- *Month-wise Profit Trends*
+- *Top Spending Customers.*
+- *Month-wise Profit Trends.*
 
 ## 🗂 Dataset Details
 The project uses two datasets:
 1. *Details.csv*: Contains details of order ID, amount, profit, quantity, category, sub-category, and payment mode.
 2. *Orders.csv*: Includes order ID, order date, customer name, state, and city.
 
-Additionally, the *Ecommerce Sales Dashboard.pbix* file contains the Power BI dashboard.
+Additionally, the **Ecommerce Sales Dashboard.pbix** file contains the Power BI dashboard.
 
 ## 🛠 Technologies Used
 - *Power BI* for data visualization.
@@ -61,4 +61,4 @@ The Solution.sql file contains queries used to:
 3. *Enable drill-through for more detailed customer analytics.*
 
 ## 🏁 Conclusion
-This *Ecommerce Sales Dashboard* provides critical insights into business performance, customer purchasing behavior, and sales trends. By leveraging *Power BI* and *SQL, the project transforms raw transactional data into meaningful visualizations, helping businesses optimize decision-making. Future improvements like **predictive analytics* and *automated data refresh* can further enhance the dashboard’s effectiveness. 
+This *Ecommerce Sales Dashboard* provides critical insights into business performance, customer purchasing behavior, and sales trends. By leveraging *Power BI* and *SQL*, the project transforms raw transactional data into meaningful visualizations, helping businesses optimize decision-making. Future improvements like **predictive analytics** and *automated data refresh* can further enhance the dashboard’s effectiveness.
