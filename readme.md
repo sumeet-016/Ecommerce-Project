@@ -1,24 +1,24 @@
 ## Ecommerce Sales Dashboard
 
 ## 📊 Project Overview
-This project is an **Ecommerce Sales Dashboard** developed using *Power BI* and *SQL*, aimed at analyzing sales performance, profit trends, and customer behavior for an ecommerce business. The dashboard leverages datasets that include order details, payment methods, and customer locations to deliver actionable insights.
+This project is an **Ecommerce Sales Dashboard** developed using **Power BI** and **SQL**, aimed at analyzing sales performance, profit trends, and customer behavior for an ecommerce business. The dashboard leverages datasets that include order details, payment methods, and customer locations to deliver actionable insights.
 
-The dataset comprises two CSV files: Details.csv and Orders.csv, which contain sales transactions, product categories, and customer demographics. SQL queries (**Solution.sql**) are used to preprocess and transform data for visualization. The final dashboard (**Ecommerce Sales Dashboard.pbix**) presents interactive charts and KPIs to help businesses make data-driven decisions.
+The dataset comprises two CSV files: Details.csv and Orders.csv, which contain sales transactions, product categories, and customer demographics. SQL queries (*Solution.sql*) are used to preprocess and transform data for visualization. The final dashboard (*Ecommerce Sales Dashboard.pbix*) presents interactive charts and KPIs to help businesses make data-driven decisions.
 
 ## 🚀 Features
 ### 1. Key Performance Indicators (KPIs)
-- *Total Revenue:* 438K
-- *Total Quantity Sold:* 5615
-- *Total Profit:* 37K
-- *AOV (Average Order Value):* 121K
+- **Total Revenue:** 438K
+- **Total Quantity Sold:** 5615
+- **Total Profit:** 37K
+- **AOV (Average Order Value):** 121K
 
 ### 2. Profit and Sales Analytics
 - *Top 5 Profitable Sub-Categories by State.*
 - *Top 5 Profitable Products by Sub-Category.*
 
 ### 3. Category Insights
-- *Payment Preferences Breakdown*: COD, UPI, Debit, Credit, EMI.
-- *Quantity Breakdown by Category*: Clothing, Electronics, Furniture.
+- **Payment Preferences Breakdown**: COD, UPI, Debit, Credit, EMI.
+- **Quantity Breakdown by Category**: Clothing, Electronics, Furniture.
 
 ### 4. Customer and Monthly Analysis
 - *Top Spending Customers.*
@@ -26,14 +26,14 @@ The dataset comprises two CSV files: Details.csv and Orders.csv, which contain s
 
 ## 🗂 Dataset Details
 The project uses two datasets:
-1. *Details.csv*: Contains details of order ID, amount, profit, quantity, category, sub-category, and payment mode.
-2. *Orders.csv*: Includes order ID, order date, customer name, state, and city.
+1. **Details.csv**: Contains details of order ID, amount, profit, quantity, category, sub-category, and payment mode.
+2. **Orders.csv**: Includes order ID, order date, customer name, state, and city.
 
 Additionally, the **Ecommerce Sales Dashboard.pbix** file contains the Power BI dashboard.
 
 ## 🛠 Technologies Used
-- *Power BI* for data visualization.
-- *SQL* for querying and transforming data.
+- **Power BI** for data visualization.
+- **SQL** for querying and transforming data.
 
 ## 📌 SQL Queries
 The Solution.sql file contains queries used to:
@@ -45,15 +45,15 @@ The Solution.sql file contains queries used to:
 1. Open Ecommerce Sales Dashboard.pbix in Power BI.
 2. Load the datasets (Details.csv and Orders.csv).
 3. Interact with the visualizations to analyze sales trends.
-4. Use SQL queries for additional insights.
+4. Use SQL queries for finding the top trending insights and using them in the **Power BI**.
 
 ## 🔍 Key Insights
 1. *Maharashtra contributes the highest profit by state.*
-2. *Printers and Bookcases are the most profitable sub-categories.*
+2. *Harivansh is the highest-spending customer.*
 3. *COD is the most preferred payment method.*
 4. *Clothing holds the highest share among categories.*
 6. *December has the highest monthly profit, while May records a loss.*
-7. *Harivansh is the highest-spending customer.*
+7.*Printers and Bookcases are the most profitable sub-categories.*
 
 ## 🚀 Future Enhancements
 1. *Implement predictive sales forecasting using ML models.*
